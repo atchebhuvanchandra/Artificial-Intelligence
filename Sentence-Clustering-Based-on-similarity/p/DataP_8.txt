@@ -1,0 +1,104 @@
+{"id": 0, "title": "VOF-Verfahren \u2013 Ingenieurdienstleistungen f\u00fcr Technische Ausr\u00fcstung ELT (Anlagengruppe 4, 5, 6) gem \u00a7 53 HOAI, in Verbindung mit \u00a7 55 HOAI Leistungsphase 1-9 f\u00fcr den Neubau der Realschule Freising mit 2-fach Schulsporthalle."}
+{"id": 1, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Edelstahlbecken, Beckenausstattung."}
+{"id": 2, "title": "Kunsthalle Mannheim, Generalsanierung Billing-Bau / Ausstellungsbeleuchtung."}
+{"id": 3, "title": "Neubau einer 4-z\u00fcgigen Grundschule \u2013 Gewerk Dachabdichtungsarbeiten."}
+{"id": 4, "title": "Neubau Theater Die Tonne, Reutlingen \u2013 Dachabdichtung."}
+{"id": 5, "title": "E101 Neubau BIMSB \u2013 Berlin Institute for Medical Systems Biology / VE3.16.1 Feinschlosserarbeiten \u2013 Wendeltreppe 2017-06 Referenznummer der Bekanntmachung: 2017/S 015-023096"}
+{"id": 6, "title": "BLB BI/Bielefeld/Universit\u00e4t/Neubau Forschungsgeb\u00e4ude Experimentalphysik: Medienanbindung f\u00fcr Wasser, K\u00e4lte, Heizung und EDV/Vergabe-Nr.: 055-14-00555."}
+{"id": 7, "title": "Johannes Gutenberg Universit\u00e4t Mainz - Sanierung und Umnutzung des Geb\u00e4udes N (1361) f\u00fcr Biologie \u2013 VOF-Verfahren \u2013 Ingenieurleistungen ELT (Anlagengruppen 4,5,6) gem\u00e4\u00df \u00a7 53 HOAI, LPH. 2-3, 5-9 gem. \u00a7 55 HOAI."}
+{"id": 8, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Rohbau- und Spezialtiefbauarbeiten."}
+{"id": 9, "title": "3. Baustufe Nord-S\u00fcd Stadtbahn, K\u00f6ln \u2013 Park+Ride-Palette; Leistungen der Objektplanung f\u00fcr Geb\u00e4ude (Leistungsphase 1-5)."}
+{"id": 10, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Metallbau-/Verglasungsarbeiten."}
+{"id": 11, "title": "KH Landshut-Achdorf BA 5 \u2013 120-3061-01 Geb\u00e4udeautomation 2."}
+{"id": 12, "title": "Europ\u00e4isches Patentamt \u2013 Sanierung des Dienstgeb\u00e4udes EPA-DPMA \u2013 Tischlerarbeiten \u2013 Fenster (Neubau). Referenznummer der Bekanntmachung: 6185/2017"}
+{"id": 13, "title": "General-Steinhoff-Kaserne, Sanierung von Bestandsgeb\u00e4uden - Containeranlage Interimsgeb\u00e4ude"}
+{"id": 14, "title": "BLB BI/Bielefeld/Universit\u00e4t/Neubau Forschungsgeb\u00e4ude Experimentalphysik: Schlosserarbeiten/Vergabe - Nr.: 055-14-00098."}
+{"id": 15, "title": "Kruppstr. 2-6, Haus 6 \u2013 Abbruch und Schadstoffsanierung. Referenznummer der Bekanntmachung: B14060-3020506-001-394-02"}
+{"id": 16, "title": "Schw\u00e4bisch Gm\u00fcnd, JVA Gotteszell, Sanierung Hauptgeb\u00e4ude mit Kreuzgang, Klempnerarbeiten. Referenznummer der Bekanntmachung: 17-05653"}
+{"id": 17, "title": "Weinbauernstr. 16, Objektplanung Geb\u00e4ude HOAI 2013, Leistungsphase 5-9."}
+{"id": 18, "title": "Mainzer Str. 14, Objektplanung Geb\u00e4ude \u00a7 33 HOAI 2009 Teil 3, Leistungsphase 6-9."}
+{"id": 19, "title": "Kruppstr. 2-6, Haus 6 \u2013 Metallbauarbeiten, Schlosserarbeiten. Referenznummer der Bekanntmachung: B14060-3020506-001-334-03"}
+{"id": 20, "title": "BLB DU / M\u00f6nchengladbach / JHQ M\u00f6nchengladbach Aufnahmeeinrichtung 2. BA / Sanit\u00e4r und L\u00fcftung / 020-16-00012."}
+{"id": 21, "title": "Sanierung Simpert-Kraemer-Gymnasium \u2013 Leistungen der Technischen Ausr\u00fcstung, Anlagengruppen 1, 2, 3, 7 und 8 gem\u00e4\u00df \u00a7\u00a7 53 ff. HOAI, Leistungsphasen 5-9."}
+{"id": 22, "title": "Umbau, Erweiterung und Generalinstandsetzung der Main-Limes-Realschule Obernburg, BA 3, Estricharbeiten."}
+{"id": 23, "title": "Umbau, Erweiterung und Generalinstandsetzung der Main-Limes-Realschule Obernburg, BA 1, Putz- Malerabeiten mit Trockenbau."}
+{"id": 24, "title": "Kunsthalle Mannheim, Generalsanierung Billing-Bau, Ausstellungsbeleuchtung."}
+{"id": 25, "title": "Umbau, Erweiterung und Generalinstandsetzung der Main-Limes-Realschule Obernburg, BA 3, Raumlufttechnische Anlagen."}
+{"id": 26, "title": "Neubau Theater Die Tonne, Reutlingen \u2013 Metallbau Fassade. Referenznummer der Bekanntmachung: 02/16"}
+{"id": 27, "title": "VOF-Verfahren \u2013 Ingenieurdienstleistungen f\u00fcr Technische Ausr\u00fcstung ELT (Anlagengruppe 4, 5, 6) gem \u00a7 53 HOAI, in Verbindung mit \u00a7 55 HOAI Leistungsphase 1-9 f\u00fcr den Neubau der Realschule Freising mit 2-fach Schulsporthalle."}
+{"id": 28, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 108 Trockenbauarbeiten."}
+{"id": 29, "title": "Johannes Gutenberg Universit\u00e4t Mainz -\u2013 Sanierung und Umnutzung des Geb\u00e4udes N (1361) f\u00fcr Biologie \u2013 VOF-Verfahren Objektplanung gem. \u00a7 34 HOAI LPh 2-9."}
+{"id": 30, "title": "Europ\u00e4isches Patentamt \u2013 Sanierung des Dienstgeb\u00e4udes EPA-DPMA \u2013 Erweiterte Rohbauarbeiten. Referenznummer der Bekanntmachung: 6161/2017"}
+{"id": 31, "title": "Umbau, Erweiterung und Generalinstandsetzung der Main-Limes-Realschule Obernburg, BA 3, Raumlufttechnische Anlagen."}
+{"id": 32, "title": "KH Landshut-Achdorf BA 5 \u2013 120-4013-01 Elektroinstallation mit Beleuchtung."}
+{"id": 33, "title": "Staatliche Studienakademie Plauen, Amtsberg 6/10, Umbau + Erweiterung. Referenznummer der Bekanntmachung: 17O90122"}
+{"id": 34, "title": "Dachdecker- und Spenglerarbeiten Bauabschnitt 1 f\u00fcr die Errichtung eines M\u00fchlendorfes beim Tierpark Hellabrunn."}
+{"id": 35, "title": "Weinbauernstr. 16, Objektplanung Geb\u00e4ude \u00a7 33 HOAI 2013, Leistungsphase 5-9."}
+{"id": 36, "title": "Oper Leipzig: Modernisierung der D\u00e4cher und Nordterrasse."}
+{"id": 37, "title": "Sanierung Simpert-Kraemer-Gymnasium \u2013 Leistungen der Objektplanung Geb\u00e4ude und Innenr\u00e4ume gem\u00e4\u00df \u00a7\u00a7 33 ff. HOAI, Leistungsphasen 1-9."}
+{"id": 38, "title": "Staatliche Studienakademie Plauen, Amtsberg 6/10, Umbau + Erweiterung. Referenznummer der Bekanntmachung: 17O90122"}
+{"id": 39, "title": "General-Steinhoff-Kaserne, Sanierung von Bestandsgeb\u00e4uden - Landschaftsbauarbeiten - Geb\u00e4udekomplex 4"}
+{"id": 40, "title": "BLB DU / M\u00f6nchengladbach / JHQ M\u00f6nchengladbach Aufnahmeeinrichtung 3. BA / Tief- und Rohrleitungsbau / 020-16-00908."}
+{"id": 41, "title": "Sportpark Freiham, Neubau; Heizungsanlagen; Vergabe-Nr.: H20a234217."}
+{"id": 42, "title": "Umbau, Erweiterung und Generalinstandsetzung der Main-Limes-Realschule Obernburg, BA 3, Bodenbelagsarbeiten."}
+{"id": 43, "title": "KH Landshut-Achdorf BA 5 \u2013 120-3031-01 Sanit\u00e4r 2."}
+{"id": 44, "title": "Schreinerarbeiten Bauabschnitt 1 f\u00fcr die Errichtung eines M\u00fchlendorfes beim Tierpark Hellabrunn."}
+{"id": 45, "title": "E101 Neubau BIMSB \u2013 Berlin Institute for Medical Systems Biology/ VE3.10.1 Trockenbauarbeiten. Referenznummer der Bekanntmachung: 2016/S 245-446901"}
+{"id": 46, "title": "E101 Neubau BIMSB \u2013 Berlin Institute for Medical Systems Biology / VE4.12.Starkstromanlagen."}
+{"id": 47, "title": "Johannes Gutenberg Universit\u00e4t Mainz - Sanierung und Umnutzung des Geb\u00e4udes N (1361) f\u00fcr Biologie \u2013 VOF-Verfahren \u2013 Ingenieurleistungen ELT (Anlagengruppen 4,5,6) gem\u00e4\u00df \u00a7 53 HOAI, LPH. 2-3, 5-9 gem. \u00a7 55 HOAI."}
+{"id": 48, "title": "Neubau Theater Die Tonne, Reutlingen \u2013 Malerarbeiten. Referenznummer der Bekanntmachung: 09/16"}
+{"id": 49, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 303 D\u00e4mmung technischer Anlagen."}
+{"id": 50, "title": "Finanzamt F\u00fcrth, Sanierung Altbau 2. BA; Vergabe-Nr. 13 E 0394."}
+{"id": 51, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 101 Erd- und Rohbauarbeiten."}
+{"id": 52, "title": "Neubau Theater Die Tonne, Reutlingen \u2013 Fliesenarbeiten -. Referenznummer der Bekanntmachung: 08/16"}
+{"id": 53, "title": "Neubau einer 4-z\u00fcgigen Grundschule mit Kindertagesst\u00e4tte und 2 Einfeldsporthallen, Fachplanungsleistungen f\u00fcr die Technische Ausr\u00fcstung."}
+{"id": 54, "title": "Sportpark Freiham, Neubau; Metallbauarbeiten, Pfosten-Riegel-Fassade; Vergabe-Nr.: H15a215417."}
+{"id": 55, "title": "Sportpark Freiham, Neubau; Dachabdichtungs- und Spenglerarbeiten inklusive Dachbegr\u00fcnung; Vergabe-Nr.: H06d264917."}
+{"id": 56, "title": "Oper Leipzig: Modernisierung der D\u00e4cher und Nordterrasse."}
+{"id": 57, "title": "E101 Neubau BIMSB \u2013 Berlin Institute for Medical Systems Biology / VE4.01 Brandschutzarbeiten."}
+{"id": 58, "title": "Europ\u00e4isches Patentamt \u2013 Sanierung des Dienstgeb\u00e4udes EPA-DPMA \u2013 Baustelleneinrichtung. Referenznummer der Bekanntmachung: 5948/2017"}
+{"id": 59, "title": "Neubau einer 4-z\u00fcgigen Grundschule \u2013 Gewerk Elektroinstallation."}
+{"id": 60, "title": "Sanierung Simpert-Kraemer-Gymnasium \u2013 Leistungen der Technischen Ausr\u00fcstung, Anlagengruppen 4, 5 und 6 gem\u00e4\u00df \u00a7\u00a7 53 ff. HOAI, Leistungsphasen 5-9."}
+{"id": 61, "title": "Objektplanung Geb\u00e4ude \u00a7 34 HOAI f\u00fcr den Teilabbruch und Neuerrichtung Amtsgeb\u00e4ude Landshuter Str. 4 in Erding."}
+{"id": 62, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 107 Metallbauarbeiten \u2013 Sonnenschutz / Schiebel\u00e4den."}
+{"id": 63, "title": "KH Landshut-Achdorf BA 5 \u2013 120-5031-01 med. Gase 2."}
+{"id": 64, "title": "BLB DU / M\u00f6nchengladbach / JHQ M\u00f6nchengladbach Aufnahmeeinrichtung (Geb. CHR 34) / K\u00fcchentechnik / 020-17-00147."}
+{"id": 65, "title": "Finanzamt F\u00fcrth, Sanierung Altbau 2. BA; Vergabe-Nr. 13 E 0125."}
+{"id": 66, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Heizungsarbeiten."}
+{"id": 67, "title": "BLB BI/Bielefeld/Universit\u00e4t Bielefeld/Neubau Forschungsgeb\u00e4ude Experimentalphysik."}
+{"id": 68, "title": "3. Baustufe Nord-S\u00fcd Stadtbahn, K\u00f6ln \u2013 Park+Ride-Palette; Leistungen der Objektplanung f\u00fcr Geb\u00e4ude (Leistungsphase 1-5)."}
+{"id": 69, "title": "BLB BI/Bielefeld/Universit\u00e4t/Neubau Forschungsgeb\u00e4ude Experimentalphysik: Stahlblech-Alu-Glast\u00fcren/Vergabe-Nr.: 055-13-01031"}
+{"id": 70, "title": "Finanzamt F\u00fcrth, Sanierung Altbau 2. BA; Vergabe-Nr. 13 E 0147."}
+{"id": 71, "title": "Finanzamt F\u00fcrth, Sanierung Altbau 2. BA; Vergabe-Nr. 14 E 0120."}
+{"id": 72, "title": ""Baumeisterarbeiten Bauabschnitt 1 f\u00fcr die Errichtung eines M\u00fchlendorfes beim Tierpark Hellabrunn."}
+{"id": 73, "title": "Mainzer Str. 14, Objektplanung Geb\u00e4ude \u00a7 33 HOAI 2009 Teil 3, Leistungsphase 6-9."}
+{"id": 74, "title": "KH Landshut-Achdorf BA 5 \u2013 120-1020-01 Rohbau inkl. Abbruch."}
+{"id": 75, "title": "KH Landshut-Achdorf BA 5 \u2013 120-1103-01 Fenster- und Fassadenarbeiten."}
+{"id": 76, "title": "3. Baustufe Nord-S\u00fcd Stadtbahn, K\u00f6ln \u2013 Park+Ride-Palette Leistungen der Objektplanung f\u00fcr Geb\u00e4ude (Leistungsphase 1-5)."}
+{"id": 77, "title": "Europ\u00e4isches Patentamt \u2013 Sanierung des Dienstgeb\u00e4udes EPA-DPMA \u2013 Baustelleneinrichtung. Referenznummer der Bekanntmachung: 5948/2017"}
+{"id": 78, "title": "BLB BI/Bielefeld/Universit\u00e4t/Neubau Forschungsgeb\u00e4ude Experimentalphysik: Starkstromanlagen/Vergabe \u2013 Nr.: 055-14-00403."}
+{"id": 79, "title": "Kunsthalle Mannheim, Generalsanierung Billing-Bau, Terrazzo-Instandsetzungsarbeiten."}
+{"id": 80, "title": "Staatliche Studienakademie Plauen, Amtsberg 6/10, Umbau + Erweiterung. Referenznummer der Bekanntmachung: 17O90058"}
+{"id": 81, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Dachabdichtungsarbeiten."}
+{"id": 82, "title": "Neubau einer 4-z\u00fcgigen Grundschule mit Kindertagesst\u00e4tte und 2 Einfeldsporthallen, Planungsleistungen Tragwerk."}
+{"id": 83, "title": "General-Steinhoff-Kaserne, Sanierung von Bestandsgeb\u00e4uden - Metallbau- und Schlosserarbeiten - innen"}
+{"id": 84, "title": "Schw\u00e4bisch Gm\u00fcnd, JVA Gotteszell, Sanierung Hauptgeb\u00e4ude mit Kreuzgang, Dachdeckungsarbeiten. Referenznummer der Bekanntmachung: 17-05638"}
+{"id": 85, "title": "Kruppstr. 2-6, Haus 6 \u2013 Rohbau, Stahlbau, Mauerarbeiten. Referenznummer der Bekanntmachung: B14060-3020506-001-331-03"}
+{"id": 86, "title": "BLB BI / Bielefeld / Universit\u00e4t Bielefeld / Neubau Forschungsgeb\u00e4ude Experimentalphysik"}
+{"id": 87, "title": "Schw\u00e4bisch Gm\u00fcnd, JVA Gotteszell, Sanierung Hauptgeb\u00e4ude mit Kreuzgang, Zimmerarbeiten. Referenznummer der Bekanntmachung: 17-05619"}
+{"id": 88, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Badewassertechnik und MSR-Technik."}
+{"id": 89, "title": "Teilabbruch und Neuerrichtung Amtsgeb\u00e4ude Landshuter Str. 4 in Erding."}
+{"id": 90, "title": "BLB DU / M\u00f6nchengladbach / JHQ M\u00f6nchengladbach Aufnahmeeinrichtung (Geb. BR 15-19) / Elektroinstallation und Brandmeldeanlage / 020-17-00362."}
+{"id": 91, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 113 Estricharbeiten."}
+{"id": 92, "title": "Staatliche Studienakademie Plauen, Amtsberg 6/10, Umbau + Erweiterung. Referenznummer der Bekanntmachung: 17O90057"}
+{"id": 93, "title": "Kruppstr. 2-6, Haus 6 \u2013 Trockenbauarbeiten. Referenznummer der Bekanntmachung: B14060-3020506-001-342-01"}
+{"id": 94, "title": "Landschaftsbauarbeiten Bauabschnitt 1 f\u00fcr die Errichtung eines M\u00fchlendorfes beim Tierpark Hellabrunn."}
+{"id": 95, "title": "Neubau Theater Die Tonne, Reutlingen \u2013 B\u00fchnenbeleuchtung. Referenznummer der Bekanntmachung: 261/16"}
+{"id": 96, "title": "Kunsthalle Mannheim, Generalsanierung Billing-Bau, Technische W\u00e4rmed\u00e4mmung."}
+{"id": 97, "title": "Sportpark Freiham, Neubau; F\u00f6rdertechnik, Aufzugsanlagen; Vergabe-Nr.: H27a167917."}
+{"id": 98, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 Zimmer- und Holzbauarbeiten."}
+{"id": 99, "title": "KH Landshut-Achdorf BA 5 \u2013 120-4080-01 Aufzugsanlage."}
+{"id": 100, "title": "Schw\u00e4bisch Gm\u00fcnd, JVA Gotteszell, Sanierung Hauptgeb\u00e4ude mit Kreuzgang, Ger\u00fcstarbeiten. Referenznummer der Bekanntmachung: 17-05612"}
+{"id": 101, "title": "Sanierung und Erweiterung Parkbad Laupheim \u2013 L\u00fcftungsarbeiten."}
+{"id": 102, "title": "Neubau Jugendwohnheim Landshut \u2013 LV 401 Elektroinstallation."}
+{"id": 103, "title": "Staatliche Studienakademie Plauen, Amtsberg 6/10, Umbau + Erweiterung. Referenznummer der Bekanntmachung: 17O90175"}
