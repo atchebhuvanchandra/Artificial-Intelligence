@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="ee9f3cb8-810b-4d4e-86ea-102710f19cd8" data-root-id="1087"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1168">
+          {"cf040bd2-9b78-44d8-8305-834878788e50":{"roots":{"references":[{"attributes":{"text":"flavor clustering"},"id":"1088","type":"Title"},{"attributes":{},"id":"1094","type":"LinearScale"},{"attributes":{},"id":"1109","type":"BasicTickFormatter"},{"attributes":{"formatter":{"id":"1111"},"ticker":{"id":"1099"}},"id":"1098","type":"LinearAxis"},{"attributes":{"axis":{"id":"1098"},"ticker":null},"id":"1101","type":"Grid"},{"attributes":{},"id":"1096","type":"LinearScale"},{"attributes":{},"id":"1092","type":"DataRange1d"},{"attributes":{},"id":"1090","type":"DataRange1d"},{"attributes":{"callback":null,"tooltips":[["cuisine","@cuisine"],["recipe","@recipe"]]},"id":"1086","type":"HoverTool"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1086"}]},"id":"1106","type":"Toolbar"},{"attributes":{},"id":"1103","type":"BasicTicker"},{"attributes":{"axis":{"id":"1102"},"dimension":1,"ticker":null},"id":"1105","type":"Grid"},{"attributes":{},"id":"1111","type":"BasicTickFormatter"},{"attributes":{"below":[{"id":"1098"}],"center":[{"id":"1101"},{"id":"1105"}],"left":[{"id":"1102"}],"plot_height":1000,"plot_width":1000,"title":{"id":"1088"},"toolbar":{"id":"1106"},"x_range":{"id":"1090"},"x_scale":{"id":"1094"},"y_range":{"id":"1092"},"y_scale":{"id":"1096"}},"id":"1087","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"1099","type":"BasicTicker"},{"attributes":{"formatter":{"id":"1109"},"ticker":{"id":"1103"}},"id":"1102","type":"LinearAxis"}],"root_ids":["1087"]},"title":"Bokeh Application","version":"2.0.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1168').textContent;
+                  var render_items = [{"docid":"cf040bd2-9b78-44d8-8305-834878788e50","root_ids":["1087"],"roots":{"1087":"ee9f3cb8-810b-4d4e-86ea-102710f19cd8"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
